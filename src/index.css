@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Fraunces", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+
+/* Custom scrollbars and coffee liquid pulse */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #181614;
+}
+::-webkit-scrollbar-thumb {
+  background: #3a342f;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #524a43;
+}

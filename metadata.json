@@ -1,0 +1,6 @@
+{
+  "name": "Dialed — Specialty Coffee Brew Community & Extraction Lab",
+  "description": "Log brew recipes, compare extraction variables like grind size and water temperature, share tips with coffee enthusiasts, and master V60, Aeropress, and Moka Pot with an interactive step-by-step timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
